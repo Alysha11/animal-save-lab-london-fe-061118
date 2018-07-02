@@ -9,10 +9,10 @@ html {
 }
 
 
-@media screen and (max-width:4000px)  {
+@media screen and (max-width:1196px)  {
 #bear{  
   position: absolute;
-  right: 700px;
+  right: 800px;
 }
   
 }
